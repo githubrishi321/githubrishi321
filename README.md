@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Chavan</h1>
 <h3 align="center">🚀 Passionate Software Engineer | Web Developer | DSA Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7D700&width=600&lines=Full-Stack+Developer+💻;React+%7C+Node.js+%7C+MongoDB+%7C+Express.js;Java+%7C+DSA+%7C+Problem+Solving;Building+Scalable+Web+Apps+🚀;Open+Source+Contributor+❤️" />
-</p>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### 🚀 About Me
@@ -37,7 +33,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,javascript,react,nodejs,express,mongodb,mysql,python,linux,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cpp" />
 </p>
 
 ---
@@ -63,36 +59,28 @@
 ---
 
 ### 📌 Featured Projects  
-#### 📚 **[Book Store Web App](https://github.com/githubrishi321/bookstore)**
-- 🔹 Built using **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- 🔹 Features: User Authentication, Book Suggestions, Integrated Chatbot
-- 🔹 AI-powered book recommendations based on user interests.
 
 #### 💳 **[Bank Management System](https://github.com/githubrishi321/bank-management)**
 - 🔹 Developed using **Java & MySQL**
 - 🔹 Features: Secure login, deposits, withdrawals, transaction history
 - 🔹 Implements **OOP concepts** for scalability.
 
----
+#### 🛁 **[Have A Nice Bath - Chrome Extension](https://github.com/githubrishi321/haveanicebath)**
+- 🔹 Helps users overcome **overthinking while bathing**.
+- 🔹 Displays **daily GD topics & motivational quotes** to improve English speaking skills.
+- 🔹 Developed using **HTML, CSS, JavaScript**.
 
-### 🏅 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=githubrishi321&label=Profile%20Views&color=brightgreen&style=flat" />
-</p>
-
----
-
-### 🔥 Quote of the Day  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-</p>
+#### 🧠 **[Quiz Application](https://github.com/githubrishi321/quiz-app)**
+- 🔹 Interactive **quiz application** built using **JavaScript**.
+- 🔹 Features **multiple-choice questions & real-time score tracking**.
+- 🔹 Focuses on **user engagement & learning**.
 
 ---
 
-## 🚀 Let's Build Something Amazing!  
-🔹 Open to **collaborations, internships, and freelance projects**.  
-🔹 Feel free to reach out for discussions on **tech, startups, or problem-solving!**  
-🔹 Always learning, always growing!  
+## 💬 Let's Connect!  
+💡 Open to **learning, networking, and sharing knowledge**.  
+💻 Let's discuss **DSA, Web Development, or cool projects**.  
+📩 Feel free to reach out anytime!  
 
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
