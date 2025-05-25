@@ -10,7 +10,7 @@
 - 💡 Building projects to solve real-world problems.
 - 🔥 Strong foundation in **Java, Data Structures, React, and Backend Development**.
 - 👨‍💻 All my projects are available at **[My GitHub](https://github.com/githubrishi321)**
-- 📄 Check my **[Resume](https://drive.google.com/file/d/1AjYVGShktY5XgS_U57oxv4aART8JPSST/view?usp=sharing)**
+- 📄 Check my **[Resume](https://drive.google.com/file/d/1euow4wUrRrc3QvYRhjJYJJQjJg6FUtMD/view?usp=drive_link)**
 - 📫 Reach me at **chavanrishikesh35@gmail.com**
 - ⚡ **Fun Fact:** I can debug and box at the same time! 🥊💻
 
