@@ -33,7 +33,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cpp,react,nodejs,mongodb,mysql,express,bootstrap" />
 </p>
 
 ---
@@ -60,20 +60,35 @@
 
 ### 📌 Featured Projects  
 
-#### 💳 **[Bank Management System](https://github.com/githubrishi321/bank-management)**
-- 🔹 Developed using **Java & MySQL**
-- 🔹 Features: Secure login, deposits, withdrawals, transaction history
-- 🔹 Implements **OOP concepts** for scalability.
+#### 🔗 [URL Shortener (MERN Stack)](https://github.com/githubrishi321/URL-Shorter)
+- 🔹 Built with **MongoDB, Express, React, Node.js**
+- 🔹 Features authentication, short URL generation, and analytics
+- 🔹 Clean UI with **EJS**, Bootstrap and click-tracking support
 
-#### 🛁 **[Have A Nice Bath - Chrome Extension](https://github.com/githubrishi321/haveanicebath)**
-- 🔹 Helps users overcome **overthinking while bathing**.
-- 🔹 Displays **daily GD topics & motivational quotes** to improve English speaking skills.
-- 🔹 Developed using **HTML, CSS, JavaScript**.
+#### 💳 [Bank Management System](https://github.com/githubrishi321/bank-management)
+- 🔹 Developed using **Java (AWT & Swing) + MySQL**
+- 🔹 Includes login, deposits, withdrawals, mini-statements, and PIN changes
+- 🔹 Implements **OOP principles** for maintainability
 
-#### 🧠 **[Quiz Application](https://github.com/githubrishi321/quiz-app)**
-- 🔹 Interactive **quiz application** built using **JavaScript**.
-- 🔹 Features **multiple-choice questions & real-time score tracking**.
-- 🔹 Focuses on **user engagement & learning**.
+#### 🧠 [Eye Disease Detection using CNN](https://github.com/githubrishi321/Eye-Disease-Detection)
+- 🔹 Detects **glaucoma** and **cataract** using **CNN and image preprocessing**
+- 🔹 GUI built with **Tkinter**, integrated with **SQLite**
+- 🔹 Achieved **97.6% accuracy** with ensemble models and telemedicine approach
+
+#### 📚 [BookStore App (React)](https://github.com/githubrishi321/BookStore)
+- 🔹 Responsive UI built with **React, Tailwind CSS, JavaScript**
+- 🔹 Search functionality, book cards, categories & rating support
+- 🔹 (Chatbot recommendation system - upcoming)
+
+#### 🛁 [Have A Nice Bath - Chrome Extension](https://github.com/githubrishi321/haveanicebath)
+- 🔹 Built using **HTML, CSS, JavaScript**
+- 🔹 Helps overcome **overthinking while bathing**
+- 🔹 Shows **daily motivational quotes and GD topics** for English speaking practice
+
+#### 📝 [Quiz Application](https://github.com/githubrishi321/quiz-app)
+- 🔹 Developed with **JavaScript, HTML, CSS**
+- 🔹 Features multiple-choice questions and real-time score tracking
+- 🔹 Focuses on user engagement and learning
 
 ---
 
