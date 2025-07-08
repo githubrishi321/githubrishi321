@@ -6,9 +6,10 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### 🚀 About Me
-- 🌱 Currently learning **DSA & Full-Stack Web Development**
-- 💡 Building projects to solve real-world problems.
-- 🔥 Strong foundation in **Java, Data Structures, React, and Backend Development**.
+- 🎓 I'm a **Computer Engineering graduate (2025)** passionate about building full-stack web apps and solving real-world problems with code.
+- 🧠 Skills: **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, SQL, C++, Core Java, AWS, OOPs, DSA**
+- 💡 I build practical projects using real-world use cases to learn and grow.
+- 👀 I'm currently **looking for Software Developer roles** in Web Development or Backend Engineering.
 - 👨‍💻 All my projects are available at **[My GitHub](https://github.com/githubrishi321)**
 - 📄 Check my **[Resume](https://drive.google.com/file/d/1euow4wUrRrc3QvYRhjJYJJQjJg6FUtMD/view?usp=drive_link)**
 - 📫 Reach me at **chavanrishikesh35@gmail.com**
@@ -33,21 +34,16 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cpp,react,nodejs,mongodb,mysql,express,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,mysql,cpp,java,aws" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=githubrishi321&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=githubrishi321&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=githubrishi321&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 🚧 What I'm Focusing On Right Now
+- 🚀 Building full-stack projects using **MERN Stack**
+- 📚 Improving my **Data Structures & Algorithms** for coding interviews
+- 🌐 Practicing **deployments**, APIs, and **system design fundamentals**
+- 🧩 Learning more about **backend scalability** and **MongoDB performance tuning**
 
 ---
 
