@@ -56,7 +56,7 @@
 
 ### 📌 Featured Projects  
 
-#### 🔗 [Blogify - YouTube Blog Application](https://github.com/githubrishi321/blogify)
+#### 🔗 [Blogify - Blog Application](https://github.com/githubrishi321/Blog-Application)
 - 🔹 Full-stack blog app with **Node.js, Express, MongoDB, EJS**
 - 🔹 User authentication, blog creation, comments, image uploads
 - 🔹 Responsive design using **Bootstrap** and RESTful architecture
