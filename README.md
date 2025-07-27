@@ -56,32 +56,37 @@
 
 ### 📌 Featured Projects  
 
-#### 🔗 [URL Shortener (MERN Stack)](https://github.com/githubrishi321/URL-Shorter)
+#### 🔗 [Blogify - YouTube Blog Application](https://github.com/githubrishi321/blogify)
+- 🔹 Full-stack blog app with **Node.js, Express, MongoDB, EJS**
+- 🔹 User authentication, blog creation, comments, image uploads
+- 🔹 Responsive design using **Bootstrap** and RESTful architecture
+
+#### 🔗 [URL Shortener (MERN Stack)](https://github.com/githubrishi321/url-shortener)
 - 🔹 Built with **MongoDB, Express, React, Node.js**
 - 🔹 Features authentication, short URL generation, and analytics
 - 🔹 Clean UI with **EJS**, Bootstrap and click-tracking support
 
-#### 💳 [Bank Management System](https://github.com/githubrishi321/bank-management)
+#### 💳 [Bank Management System](https://github.com/githubrishi321/bankmanagement)
 - 🔹 Developed using **Java (AWT & Swing) + MySQL**
 - 🔹 Includes login, deposits, withdrawals, mini-statements, and PIN changes
 - 🔹 Implements **OOP principles** for maintainability
 
-#### 🧠 [Eye Disease Detection using CNN](https://github.com/githubrishi321/Eye-Disease-Detection)
+#### 🧠 [Eye Disease Detection using CNN](https://github.com/githubrishi321/Eye-Disease-Detection-Using-CNN)
 - 🔹 Detects **glaucoma** and **cataract** using **CNN and image preprocessing**
 - 🔹 GUI built with **Tkinter**, integrated with **SQLite**
 - 🔹 Achieved **97.6% accuracy** with ensemble models and telemedicine approach
 
-#### 📚 [BookStore App (React)](https://github.com/githubrishi321/BookStore)
+#### 📚 [BookStore App (React)](https://github.com/githubrishi321/bookStoreApp)
 - 🔹 Responsive UI built with **React, Tailwind CSS, JavaScript**
 - 🔹 Search functionality, book cards, categories & rating support
 - 🔹 (Chatbot recommendation system - upcoming)
 
-#### 🛁 [Have A Nice Bath - Chrome Extension](https://github.com/githubrishi321/haveanicebath)
+#### 🛁 [Have A Nice Bath - Chrome Extension](https://github.com/githubrishi321/HaveAniceBath)
 - 🔹 Built using **HTML, CSS, JavaScript**
 - 🔹 Helps overcome **overthinking while bathing**
 - 🔹 Shows **daily motivational quotes and GD topics** for English speaking practice
 
-#### 📝 [Quiz Application](https://github.com/githubrishi321/quiz-app)
+#### 📝 [Quiz Application](https://github.com/githubrishi321/QUIZ_APPLICATION)
 - 🔹 Developed with **JavaScript, HTML, CSS**
 - 🔹 Features multiple-choice questions and real-time score tracking
 - 🔹 Focuses on user engagement and learning
