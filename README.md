@@ -16,7 +16,7 @@
 
 📫 **Email:** chavanrishikesh35@gmail.com  
 🔗 **GitHub:** https://github.com/githubrishi321  
-📄 **Resume:** https://drive.google.com/file/d/1heUOmJwPIoJQ_yNBS3FKRnR1CHtQUjTk/view  
+📄 **Resume:** https://drive.google.com/file/d/1SVHFOyInUE7phC_f22BO35hlZm6N52oC/view?usp=sharing
 
 ---
 
