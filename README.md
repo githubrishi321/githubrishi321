@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Computer Engineering Graduate (2025)** from Sinhgad Institute of Technology, Lonavala (CGPA: 8.06)
+- 🎓 **Computer Engineering Graduate (2025)** from Sinhgad Institute of Technology, Pune
 - 💻 Passionate about **Web Development & Software Engineering**
 - 🧠 Strong foundation in **MERN Stack, OOPs, and DSA**
 - 🔍 Actively seeking **Software Engineer / Web Developer** roles
