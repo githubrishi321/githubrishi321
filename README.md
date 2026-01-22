@@ -45,7 +45,7 @@
 ## 📌 Featured Projects
 
 ### 🔗 Blog Application  
-🌐 Live: https://blog-application-q0iw.onrender.com/  
+🌐 Live: https://blog-application-lzce.onrender.com/ 
 📁 Repo: https://github.com/githubrishi321/Blog-Application  
 - Full-stack blog platform using **Node.js, Express.js, MongoDB, EJS**
 - User authentication, blog creation, comments, and image uploads
@@ -62,7 +62,8 @@
 ---
 
 ### 🔗 URL Shortener  
-📁 Repo: https://github.com/githubrishi321/url-shortener  
+📁 Repo: https://github.com/githubrishi321/url-shortener 
+🌐 Live: https://url-shortener-qk0w.onrender.com/
 - MERN stack application for converting long URLs into short links
 - Implemented authentication, session handling, and click analytics
 - Responsive UI with efficient redirection logic
