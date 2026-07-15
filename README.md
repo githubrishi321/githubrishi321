@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.E. Computer Engineering (2025)** — Sinhgad Institute of Technology, Pune
+- 🎓 **B.E. Computer Engineering (2025)** — Savitribai Phule Pune University, Pune
 - 💼 **Full Stack Developer Intern** @ **StellarMind.ai**, Ahmedabad
 - 💻 Building scalable apps with **React.js, Node.js, Express.js & MongoDB**
 - 🧠 Strong in **MERN Stack, OOPs, REST APIs, Authentication & DSA**
