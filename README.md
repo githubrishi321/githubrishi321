@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Chavan</h1>
 
 <h3 align="center">
-  Computer Engineering Graduate &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; MERN Stack Engineer
+  Computer Engineering Graduate &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; GenAI / RAG Engineer
 </h3>
 
 <p align="center">
@@ -22,16 +22,17 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.E. Computer Engineering (2025)** — Savitribai Phule Pune University, Pune
-- 💼 **Full Stack Developer Intern** @ **StellarMind.ai**, Ahmedabad
-- 💻 Building scalable apps with **React.js, Node.js, Express.js & MongoDB**
+- 🎓 **B.E. Computer Engineering (2025)** — Sinhgad Institute of Technology, Pune (Savitribai Phule Pune University) · CGPA: 8.06/10
+- 💼 **Full Stack Developer Intern** @ **StellarMind.ai**, Ahmedabad (May – Aug 2026)
+- 🤖 Hands-on with **Generative AI** — built a RAG pipeline with **LangChain, Google Gemini & Qdrant**
+- 💻 Building scalable apps with **React.js, Node.js, Express.js, TypeScript & MongoDB/PostgreSQL**
 - 🧠 Strong in **MERN Stack, OOPs, REST APIs, Authentication & DSA**
-- 🔍 Actively seeking **Software Engineer / Full Stack Developer** roles
+- 🔍 Actively seeking **Software Engineer / Full Stack Developer / AI Engineer** roles
 - 🥊 District-level **Kickboxing** competitor — discipline & focus in everything I do
 
 <br/>
 
-📫 **Email:** chavanrishikesh35@gmail.com
+📫 **Email:** rishichavanrpc64@gmail.com
 &nbsp;&nbsp;|&nbsp;&nbsp;
 🔗 **GitHub:** [githubrishi321](https://github.com/githubrishi321)
 &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -51,11 +52,11 @@
   🏢 &nbsp;StellarMind.ai &nbsp;&nbsp;<sup><img src="https://img.shields.io/badge/Full%20Stack%20Developer%20Intern-0A66C2?style=flat-square&logoColor=white" alt="Role"/></sup>
 </h3>
 
-**📍 Ahmedabad, Gujarat &nbsp;&nbsp;|&nbsp;&nbsp; 🗓️ [Start Month, Year] – Present &nbsp;&nbsp;|&nbsp;&nbsp; 🟢 Currently Working**
+**📍 Ahmedabad, Gujarat &nbsp;&nbsp;|&nbsp;&nbsp; 🗓️ May 2026 – Aug 2026 &nbsp;&nbsp;|&nbsp;&nbsp; ✅ Internship Completed**
 
 ---
 
-Working on **MakeMy Grocery** — a full-stack grocery platform — contributing across all layers of the application from UI to database, while also improving internal company tooling.
+Contributed to **MakeMy Grocery** — a full-stack grocery platform — with a focus on IoT/MQTT device integration, backend APIs, and the admin panel, from device connectivity through to the database.
 
 <br/>
 
@@ -63,12 +64,12 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
 
 | Area | Description |
 |------|-------------|
-| 🎨 **Frontend Development** | Built responsive UI components and user flows for **User & Customer modules** using React.js and Tailwind CSS |
-| ⚙️ **Backend Development** | Designed and integrated **RESTful APIs** with Node.js & Express.js for core platform features |
-| 🛡️ **Admin Panel** | Developed and enhanced the **Admin Dashboard** — managing users, orders, products, and platform settings |
-| 🔐 **Auth & Database** | Implemented **authentication flows** (JWT / Firebase Auth), session management, and MongoDB integration |
-| 🐛 **Bug Fix & Optimization** | Diagnosed and fixed a critical **project ordering bug** on the company website — newly added projects were auto-shifting positions; implemented logic to ensure featured/latest projects remain pinned at the top index consistently |
-| 🤝 **Team Collaboration** | Worked within an agile development team to improve **UI quality, app performance, and overall functionality** |
+| 📡 **IoT / MQTT Integration** | Built backend APIs for hub & device pairing (BLE/Wi-Fi provisioning, QR-based device registration) for a **Smart Kitchen module**, and ingested real-time jar/tag sensor telemetry over an AWS-hosted **MQTT** broker |
+| 🔄 **Auto-Reorder Pipeline** | Mapped device `LOW_STOCK` / `EMPTY` alerts to cart operations and triggered **Firebase Cloud Messaging (FCM)** push notifications to customers |
+| ⚙️ **Backend Development** | Developed REST API endpoints and **admin panel modules** for authentication, products, categories, stores, orders, and address management |
+| 🔐 **Auth & API Security** | Secured APIs with **JWT authentication**, a refresh token flow, and password reset; protected routes and documented endpoints in **Swagger** for the team |
+| 🐛 **Bug Fix & Optimization** | Diagnosed and fixed a critical **project ordering bug** on the company website — newly added projects were auto-shifting positions; implemented logic to keep featured/latest projects pinned at the top index |
+| 🤝 **Team Collaboration** | Worked within an agile development team to improve UI quality, app performance, and overall functionality |
 
 <br/>
 
@@ -80,11 +81,50 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<h3>
+  🏢 &nbsp;Octanet Services Pvt. Ltd &nbsp;&nbsp;<sup><img src="https://img.shields.io/badge/Web%20Development%20Intern-0A66C2?style=flat-square&logoColor=white" alt="Role"/></sup>
+</h3>
+
+**🗓️ Jan 2024 – Feb 2024 &nbsp;&nbsp;|&nbsp;&nbsp; ✅ Internship Completed**
+
+---
+
+Built a **Task Management System** on a microservices architecture, plus a responsive gym landing page.
+
+<br/>
+
+**🔑 Key Responsibilities & Contributions**
+
+| Area | Description |
+|------|-------------|
+| 🧩 **Microservices Architecture** | Built a Task Management System split into **User, Task, and Notification** services, so the remaining services keep running if one crashes |
+| 🐇 **Async Communication** | Implemented **RabbitMQ** for asynchronous service-to-service communication |
+| 🐳 **Containerization** | Containerized all 3 services with **Docker & Docker Compose**, reducing setup to a single command |
+| 🖥️ **Landing Page** | Built a fully responsive gym landing page (HTML, CSS, JavaScript) for mobile, tablet, and desktop |
+
+<br/>
+
+**💻 Tech Stack Used**
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
@@ -99,7 +139,7 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:chavanrishikesh35@gmail.com">
+  <a href="mailto:rishichavanrpc64@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
@@ -120,6 +160,24 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
 
 ## 🛠️ Technical Skills
 
+### 🤖 AI / GenAI
+<p>
+  <img src="https://img.shields.io/badge/RAG-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge"/>
+</p>
+
+### 🔎 Vector Search & Data
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-DC244C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Semantic_Search-6E40C9?style=for-the-badge"/>
+</p>
+
 ### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -135,7 +193,8 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Authentication-4A90E2?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC-4A90E2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
@@ -143,19 +202,29 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
 ### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -167,20 +236,38 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
 <table width="100%">
 
 <tr>
+<td width="100%" colspan="2" valign="top">
+
+### 🤖 Grocery Store Knowledge-Base Chatbot (RAG)
+[![Repo](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/githubrishi321/grocery-rag-chatbot)
+
+> Retrieval-Augmented Generation (RAG) chatbot that answers grocery product & pricing queries, grounded in information extracted from PDF documents.
+
+**Stack:** `Node.js` `Express.js` `LangChain` `Google Gemini` `Qdrant`
+
+✅ PDF parsing & chunking (1,000-character chunks, 200-character overlap)  
+✅ Gemini embeddings stored in a Qdrant Cloud vector database  
+✅ LangChain retrieval of the top-5 relevant chunks for context-grounded answers  
+✅ Responses restricted to the provided documents — no hallucinated answers  
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-### 📝 Blog Application
+### 📝 Blog Application *(AI-Powered)*
 [![Live](https://img.shields.io/badge/🌐_Live_Demo-28a745?style=for-the-badge)](https://blog-application-lzce.onrender.com/)
 [![Repo](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/githubrishi321/Blog-Application)
 
-> Full-stack blog platform with content management, user authentication, and media handling.
+> Full-stack blog platform with content management, user authentication, media handling, and an AI tone converter.
 
-**Stack:** `Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap`
+**Stack:** `Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Groq API (Llama 3.3 70B)`
 
 ✅ User authentication & authorization  
 ✅ Blog creation, editing & deletion  
 ✅ Comments system & image uploads  
-✅ RESTful API architecture  
+✅ AI Tone Converter — rewrites posts in 6 styles (Professional, Casual, Social, Polite, Emojify, Original)  
 
 </td>
 <td width="50%" valign="top">
@@ -188,14 +275,14 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
 ### 🛒 E-Commerce Website
 [![Repo](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/githubrishi321/ecommerce)
 
-> Responsive e-commerce app with product discovery, cart management, and order tracking.
+> Responsive e-commerce app with product discovery, cart management, checkout, and order tracking — deployed on AWS.
 
-**Stack:** `React.js` `Tailwind CSS` `JavaScript`
+**Stack:** `React.js` `Axios` `Tailwind CSS` `JavaScript` `AWS Elastic Beanstalk`
 
 ✅ Product catalog & search  
-✅ Shopping cart & checkout  
-✅ Order tracking flow  
-✅ Fully responsive UI  
+✅ Shopping cart & multi-page checkout with dynamic delivery-date calculation  
+✅ Order history & tracking pages (Axios + REST APIs)  
+✅ Deployed & managed on AWS Elastic Beanstalk  
 
 </td>
 </tr>
@@ -240,21 +327,25 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/100+-Coding%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/><br/>
 <sub><b>75+ on LeetCode</b></sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/GitHub-YOLO%20Badge-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
 <sub><b>"You want it? You merge it"</b></sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/🥊-District%20Level%20Kickboxing-red?style=for-the-badge"/><br/>
 <sub><b>Competitive Martial Artist</b></sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/🎮-Competitive%20BGMI-blue?style=for-the-badge"/><br/>
 <sub><b>Esports Player</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🔬-Homi%20Bhabha%20Qualifier-9C27B0?style=for-the-badge"/><br/>
+<sub><b>Science Competition</b></sub>
 </td>
 </tr>
 </table>
@@ -282,10 +373,9 @@ Working on **MakeMy Grocery** — a full-stack grocery platform — contributing
 ## 💬 Let's Connect & Collaborate
 
 <p align="center">
-  <strong>💡 Open to Full-Time Roles in Web Development · MERN Stack · Full Stack · Backend Engineering</strong>
+  <strong>💡 Open to Full-Time Roles in Full Stack Development · MERN Stack · Generative AI / Backend Engineering</strong>
   <br/><br/>
-  I'm a dedicated developer currently building real-world experience at StellarMind.ai.<br/>
-  Always excited to learn, contribute, and build meaningful products with great teams.<br/><br/>
+  Computer Engineering graduate with hands-on experience in full-stack development and Generative AI — I've built RAG chatbots and AI-powered tools, and I'm always excited to learn, contribute, and build meaningful products with great teams.<br/><br/>
   📩 <strong>Reach out anytime — let's build something great together!</strong>
 </p>
 
